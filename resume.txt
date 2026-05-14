@@ -1,1 +1,3 @@
-test reseme file
+자격증: 정보처리기사, SQLD
+대외활동: 카테부
+사용기술: Spring Boot, Next.js, MySQL, PostgreSQL, Redis
